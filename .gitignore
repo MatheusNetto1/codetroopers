@@ -1,0 +1,12 @@
+.vscode
+
+# Binários
+*.o
+*.out
+*.exe
+
+# Pastas de build
+output/
+build/
+out/
+bin/
